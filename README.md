@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently preparing for HTB and looking into LLM training.🔭<br>Looking to collaborate on bug bounty.🌐<br>Currently Learning malware analysis and reverse engineering.🪲<br>Fun fact: I like boxing.🥊
+I'm currently preparing for HTB and looking into LLM training.🔭<br>Looking to collaborate on bug bounty.🌐<br>Currently Learning penetration testing and malware development.🪲<br>Fun fact: I like boxing.🥊
 
 
 ## 🌐 Socials:
