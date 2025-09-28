@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently preparing for HTB and looking into LLM training.🔭<br>Looking to collaborate on bug bounty.🌐<br>Currently Learning penetration testing and malware development.🪲<br>I've learned my skills through TCM, SANS, HTB, and PortSwigger.😁<br>Fun fact: I like boxing.🥊
+I'm currently working on my penetration testing and web app security skills.🔭<br>Looking to collaborate on bug bounty.🌐<br>Learn by Doing.🪲<br>I've learned my skills through TCM, SANS, HTB, and PortSwigger.😁<br>Fun fact: I like boxing.🥊
 
 
 ## 🌐 Socials:
