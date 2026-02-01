@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on some stuff, so my GitHub might stay dead for a while, but wayyy better things are coming.😼<br>working on my penetration testing and web app security skills.🔭<br>Looking to collaborate on bug bounty.🌐<br>Learn by Doing.🪲<br>I've learned my skills through TCM, SANS, HTB, and PortSwigger.😁<br>Fun fact: I like boxing.🥊
+I'm currently working on some stuff, so my GitHub might stay dead for a while, but wayyy better things are coming.😼<br>working on my penetration testing and web app security skills.🔭<br>Looking to collaborate on bug bounty.🌐<br>Learn by Doing.🪲<br>Fun fact: I like boxing.🥊
 
 
 ## 🌐 Socials:
