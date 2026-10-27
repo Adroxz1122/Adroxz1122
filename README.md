@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faraz</h1>
-<h3 align="center">Red-Teamer, certified in CRTP & CRTO (and MCRTA which i generally don't mention), learning C2 Ops, MalDev, and Reverse-Engineering. I also have a couple Vuln Disclosures on HackerOne and know basic Cloud pentesting.</h3>
+<h3 align="center">Red-Teamer, certified in CRTP & CRTO (and MCRTA which i generally don't mention), learning C2 Ops, MalDev, and Initial access, phishing, and Azure Security I also have a couple Vuln Disclosures on HackerOne.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adroxz1122&label=Profile%20views&color=0e75b6&style=flat" alt="adroxz1122" /> </p>
 
